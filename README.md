@@ -216,7 +216,6 @@ namespace ProyectoCompilador
                             {
                                 matriz[r, c] = Convert.ToInt32(datosrenglon[c]);
 
-
                             }
 
                             r++;
